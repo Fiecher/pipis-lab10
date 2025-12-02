@@ -15,19 +15,19 @@
 
 ## 1. Диаграмма классов (Class Diagram)
 
-![Class Diagram](images/Class Diagram.jpg)
+![Class Diagram](https://github.com/Fiecher/pipis-lab10/blob/main/images/Class%20Diagram.jpg)
 
 ## 2. Диаграмма прецедентов (Use Case Diagram)
 
-![Use Case Diagram](images/Use Case Diagram.jpg)
+![Use Case Diagram](https://github.com/Fiecher/pipis-lab10/blob/main/images/Use%20Case%20Diagram.jpg)
 
 ## 3. Диаграмма последовательностей (Sequence Diagram)
 
-![Sequence Diagram](images/Sequence Diagram.jpg)
+![Sequence Diagram](https://github.com/Fiecher/pipis-lab10/blob/main/images/Sequence%20Diagram.jpg)
 
 ## 4. Диаграмма активностей (Activity Diagram)
 
-![Activity Diagram](images/Activity Diagram.jpg)
+![Activity Diagram](https://github.com/Fiecher/pipis-lab10/blob/main/images/Activity%20Diagram.jpg)
 
 ## 💻 5. Результаты выполнения
 
